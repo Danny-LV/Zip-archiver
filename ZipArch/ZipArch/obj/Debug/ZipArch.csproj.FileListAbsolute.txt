@@ -1,0 +1,15 @@
+C:\Users\ПК\OneDrive\Desktop\C# program\ZipArch\ZipArch\bin\Debug\ZipArch.exe.config
+C:\Users\ПК\OneDrive\Desktop\C# program\ZipArch\ZipArch\bin\Debug\ZipArch.exe
+C:\Users\ПК\OneDrive\Desktop\C# program\ZipArch\ZipArch\bin\Debug\ZipArch.pdb
+C:\Users\ПК\OneDrive\Desktop\C# program\ZipArch\ZipArch\obj\Debug\ZipArch.csproj.AssemblyReference.cache
+C:\Users\ПК\OneDrive\Desktop\C# program\ZipArch\ZipArch\obj\Debug\MainWindow.g.cs
+C:\Users\ПК\OneDrive\Desktop\C# program\ZipArch\ZipArch\obj\Debug\App.g.cs
+C:\Users\ПК\OneDrive\Desktop\C# program\ZipArch\ZipArch\obj\Debug\ZipArch_MarkupCompile.cache
+C:\Users\ПК\OneDrive\Desktop\C# program\ZipArch\ZipArch\obj\Debug\ZipArch_MarkupCompile.lref
+C:\Users\ПК\OneDrive\Desktop\C# program\ZipArch\ZipArch\obj\Debug\MainWindow.baml
+C:\Users\ПК\OneDrive\Desktop\C# program\ZipArch\ZipArch\obj\Debug\ZipArch.g.resources
+C:\Users\ПК\OneDrive\Desktop\C# program\ZipArch\ZipArch\obj\Debug\ZipArch.Properties.Resources.resources
+C:\Users\ПК\OneDrive\Desktop\C# program\ZipArch\ZipArch\obj\Debug\ZipArch.csproj.GenerateResource.cache
+C:\Users\ПК\OneDrive\Desktop\C# program\ZipArch\ZipArch\obj\Debug\ZipArch.csproj.CoreCompileInputs.cache
+C:\Users\ПК\OneDrive\Desktop\C# program\ZipArch\ZipArch\obj\Debug\ZipArch.exe
+C:\Users\ПК\OneDrive\Desktop\C# program\ZipArch\ZipArch\obj\Debug\ZipArch.pdb
